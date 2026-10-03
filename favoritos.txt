@@ -2,3 +2,7 @@ Comidas favoritas
 - Tacos al pastor
 - Pizza
 - Sushi
+Peliculas favoritas
+- El padrino
+- Interestelar
+- Coco
